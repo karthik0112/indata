@@ -21,6 +21,7 @@
 // //FOR NUMBERS
 // $persons=["name"=>"1","orange"=>"3","cherry"=>"7"];
 // echo $persons["name"];
+
 //FOR EACH
 // $persons=["name"=>1,"orange"=>3,"cherry"=>7];
 // foreach($persons as $names=>$values){
